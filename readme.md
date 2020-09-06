@@ -1,3 +1,7 @@
+![GitHub All Releases](https://img.shields.io/github/downloads/sparkcity/fvtt-supplementalbestiary/total)
+![Foundry](https://img.shields.io/badge/Foundry-0.6.5-green)
+
+
 # Supplemental Bestiary Pack
 
 ## Description
