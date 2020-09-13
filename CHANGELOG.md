@@ -1,6 +1,9 @@
 # CHANGELOG
 [Note: CRs determined using [5eTools CR Calculator](https://5e.tools/crcalculator.html)]
 
+## v2.1
+Corrected broken image links for assets.
+
 ## v2.0
 Additional monsters added to compendium. The following have been added:
 

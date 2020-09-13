@@ -3,7 +3,7 @@
 	"title": "Supplemental Bestiary",
 	"description": "A module that adds homebrew creatures to your D&D 5e game.",
 	"author": "Parker (sparkcities#2000)",
-	"version": "2.0.0",
+	"version": "2.1.0",
 	"minimumCoreVersion": "0.6.5",
 	"compatibleCoreVersion": "0.6.6",
 	"url": "https://github.com/sparkcity/fvtt-supplementalbestiary",
