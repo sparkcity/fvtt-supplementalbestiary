@@ -1,7 +1,7 @@
 # CHANGELOG
 [Note: CRs determined using [5eTools CR Calculator](https://5e.tools/crcalculator.html)]
 
-## v2.1
+## v2.2
 Corrected broken image links for assets.
 
 ## v2.0
