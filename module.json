@@ -9,7 +9,7 @@
 	"url": "https://github.com/sparkcity/fvtt-supplementalbestiary",
 	"system": "dnd5e",
 	"manifest": "https://raw.githubusercontent.com/sparkcity/fvtt-supplementalbestiary/master/module.json",
-	"download": "https://github.com/sparkcity/fvtt-supplementalbestiary/releases/download/v2.0/module.zip",
+	"download": "https://github.com/sparkcity/fvtt-supplementalbestiary/releases/download/v2.1/module.zip",
 	"readme": "https://github.com/sparkcity/fvtt-supplementalbestiary/blob/master/readme.md",
 	"packs": [
 		{
